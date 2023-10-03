@@ -1,3 +1,3 @@
 # First Project on Odin
 
-Using HTML to create simple website
+Using HTML and CSS to create simple website
